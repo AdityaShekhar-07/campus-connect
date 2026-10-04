@@ -1,0 +1,6 @@
+{
+  "name": "CampusConnect",
+  "description": "Everything happening on campus, in one place. Campus event discovery, registration, capacity management, and organizer operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
